@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+an+AI+Engineer;who+loves+robots)](https://git.io/typing-svg)
 <!--
 **hz-nm/hz-nm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
