@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+an+AI+Engineer;who+loves+robots;also+vision)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&duration=3500&pause=1000&color=15C114&center=true&vCenter=true&random=false&width=435&lines=My+name+is+Ameer+H.;I+am+an+AI+Engineer;I+%3C3+robots)](https://git.io/typing-svg)
 <!--
 **hz-nm/hz-nm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
